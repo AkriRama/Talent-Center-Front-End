@@ -1,0 +1,18 @@
+export const Colors = {
+    baliHai:"#7D8FA9",
+    blue: "#2C8AD3",
+    black: "#000000",
+    darkblue: "#0078D7",
+    darkgrey: "#3B4758",
+    gray: "#787885",
+    graywhite: "#F2F6FA",
+    green: "#30A952",
+    grey: "#586A84",
+    lightBlue: "#E4EEF6",
+    lightgray: "#C4C4C4",
+    lightgrey: "#DBDBDB",
+    lightWhite: "#EEF0F4",
+    red: "#CF1D1D",
+    redE: "#dd2727",
+    white: "#FFFFFF",
+};
